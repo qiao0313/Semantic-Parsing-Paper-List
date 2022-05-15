@@ -13,7 +13,7 @@ A summary of papers for Semantic Parsing (Continuous updates)
 *Lijie Wang, Ao Zhang, Kun Wu, Ke Sun, Zhenghua Li, Hua Wu, Min Zhang, and Haifeng Wang*
 
 ### Model
-1. [https://arxiv.org/pdf/2203.06958.pdf]() ACL Findings, 2022 \
+1. [S2SQL: Injecting Syntax to Question-Schema Interaction Graph Encoder for Text-to-SQL Parsers](https://arxiv.org/pdf/2203.06958.pdf) ACL Findings, 2022 \
 *Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong*
 2. [LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations
 ]() ACL, 2021 \
